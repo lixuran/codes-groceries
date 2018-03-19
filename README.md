@@ -1,2 +1,2 @@
-# kattis
+
 # codes-groceries
